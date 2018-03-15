@@ -3,6 +3,13 @@
 	font-family:  Myriad Pro;
 }
 
+p.DESIGN {
+    color:  #fff;
+    text-align:  center;
+    font-size: 25px;
+    margin: 0;
+}
+
 p.HEY {
     color:  #fff;
     font-size: 94px;
