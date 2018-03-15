@@ -1,3 +1,20 @@
 * {
 	box-sizing: border-box;
 }
+
+
+.awa {
+  text-align: right;
+  float: right;
+  display: block;
+}
+.box1 {
+  padding-top: 240px;
+  padding-bottom: 190px;
+}
+.boxvang {
+  width: 210px;
+  height: 215px;
+  background: #ffd04f;
+  float: right;
+}
