@@ -3,6 +3,26 @@
 	font-family:  Myriad Pro;
 }
 
+.box4 img:nth-child(1) {
+    width: 80px;
+}
+
+.box4 img:nth-child(2) {.box4
+    img: nth-child(1) {      width: 90px;  }
+.box4
+    img: nth-child(1) {      width: 90px;  }
+    width:;
+}
+
+.box4 img:nth-child(3) {
+    width:  57px;
+}
+
+.box4 img:nth-child(4) {
+    width: 150px;
+    margin-bottom: 50px;
+}
+
 .mo {
     position:  absolute;
     width: 1013px;
@@ -224,3 +244,5 @@ p.text1 {
 
 p.text3:after {
 }
+
+img {}
