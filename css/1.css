@@ -3,6 +3,100 @@
 	font-family:  Myriad Pro;
 }
 
+.box4 img:nth-child(1) {
+    width: 80px;
+}
+
+.box4 img:nth-child(2) {.box4
+    img: nth-child(1) {      width: 90px;  }
+.box4
+    img: nth-child(1) {      width: 90px;  }
+    width:;
+}
+
+.box4 img:nth-child(3) {
+    width:  57px;
+}
+
+.box4 img:nth-child(4) {
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+.mo {
+    position:  absolute;
+    width: 1013px;
+    height: 723px;
+    background: #18b3e2;
+    opacity:  0.5;
+    top: 0;
+    right:  0;
+}
+
+p.chuvang {
+    color: #ffd04f;
+    text-align:  center;
+    margin-top: 41px;
+}
+
+.box7 {
+    padding-top: 85px;
+}
+
+.box7 span {
+    display:  block;
+    color:  #fff;
+    padding-left: 70px;
+    height:  46px;
+    line-height: 46px;
+    text-align:  left;
+}
+
+.box7 img {
+    width: 23px;
+    margin-right: 17px;
+}
+
+p.text8 {
+    color:  #fff;
+    font-size:  33px;
+    padding: 20px;
+}
+
+span.khoitrang2 {
+    width: 60px;
+    height: 20px;
+    background: #fff;
+    display: inline-block;
+    margin-top: 251px;
+    margin-left: 26px;
+}
+
+span.khoitrang1 {}
+
+span.khoitrang1 {
+    width: 60px;
+    height: 20px;
+    background:  #fff;
+    display: inline-block;
+    margin-top: 251px;
+    margin-left:  26px;
+}
+
+p.text7 {
+    margin-top: 10px;
+    color:  #fff;
+    font-size: 13px;
+    padding: 0 25px;
+}
+
+p.DESIGN {
+    color:  #fff;
+    text-align:  center;
+    font-size: 25px;
+    margin: 0;
+}
+
 p.HEY {
     color:  #fff;
     font-size: 94px;
@@ -12,17 +106,17 @@ p.HEY {
 }
 
 .box7 {
-    width:  400px;
-    height: 388px;
+    width: 320px;
+    height: 294px;
     background: #242a31;
 }
 
 .box6 {
-    width: 350px;
+    width: 270px;
     margin-left: 50px;
     background: #ffd04f;
     opacity: 0.9;
-    height: 1181px;
+    height: 1269px;
     margin-top:  -24px;
 }
 
@@ -37,7 +131,7 @@ body {
     position:  absolute;
     top: 0;
     left:  0;
-    width: 400px;
+    width: 330px;
     height:  100%;
     /* background:  red; */
 }
@@ -93,6 +187,7 @@ p.text4 {
     margin-top: -16px;
     padding-top: 55px;
     padding-bottom: 45px;
+    position:  relative;
 }
 
 p.text3 {
