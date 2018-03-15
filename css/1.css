@@ -3,6 +3,45 @@
 	font-family:  Myriad Pro;
 }
 
+p.HEY {
+    color:  #fff;
+    font-size: 94px;
+    margin: 0;
+    padding-top: 100px;
+    text-align:  center;
+}
+
+.box7 {
+    width:  400px;
+    height: 372px;
+    background: #242a31;
+}
+
+.box6 {
+    width: 350px;
+    margin-left: 50px;
+    background: #ffd04f;
+    opacity: 0.9;
+    height: 1181px;
+    margin-top:  -24px;
+}
+
+.box6 {
+}
+
+body {
+    position:  relative;
+}
+
+.box5 {
+    position:  absolute;
+    top: 0;
+    left:  0;
+    width: 400px;
+    height:  100%;
+    /* background:  red; */
+}
+
 .box4 {
     background: #386678;
     padding-left: 670px;
