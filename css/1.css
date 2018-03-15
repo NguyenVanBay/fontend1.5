@@ -1,5 +1,38 @@
 * {
 	box-sizing: border-box;
+	font-family:  Myriad Pro;
+}
+
+.box3 {
+    background-image: url("images/1.png");
+}
+
+p.text3 {
+    width: 500px;
+    color: #fff;
+    float: right;
+    font-size: 15px;
+}
+
+p.text2 {
+    font-size: 64px;
+    color: #ffce49;
+    line-height:  0px;
+}
+
+.box2 {
+    text-align:  right;
+    padding-right:  90px;
+    background: #242a31;
+    padding-top: 45px;
+    padding-bottom:  49px;
+    overflow:  auto;
+}
+
+p.text1 {
+    font-size: 35px;
+    line-height:  0px;
+    color:  #fff;
 }
 
 
@@ -7,16 +40,24 @@
   text-align: right;
   float: right;
   display: block;
+  color: #ffd04f;
+  font-size:  32px;
+  padding-top:  13px;
+  padding-right: 18px;
 }
 .box1 {
-  padding-top: 240px;
-  padding-bottom: 190px;
+  padding-top: 120px;
+  padding-bottom: 110px;
 }
 .boxvang {
-  width: 210px;
-  height: 215px;
+  width: 105px;
+  height: 105px;
   background: #ffd04f;
   float: right;
 } 
 
 
+
+
+p.text3:after {
+}
