@@ -1,6 +1,17 @@
 * {
-	box-sizing: border-box;
-	font-family:  Myriad Pro;
+    box-sizing: border-box;
+    font-family:  Myriad Pro;
+}
+
+.boxtmautrang {
+    width: 441px;
+    height: 23px;
+    background: #b8b5b4;
+    text-align:  left;
+    position: absolute;
+    right: 0;
+    top:  0;
+    z-index:  5;
 }
 
 .box4 img:nth-child(1) {
@@ -25,18 +36,20 @@
 
 .mo {
     position:  absolute;
-    width: 1013px;
-    height: 723px;
+    width: 872px;
+    height: 882px;
     background: #18b3e2;
-    opacity:  0.5;
+    opacity: 0.3;
     top: 0;
     right:  0;
+    z-index: 5;
 }
 
 p.chuvang {
     color: #ffd04f;
     text-align:  center;
-    margin-top: 41px;
+    margin-top: 62px;
+    font-size: 30px;
 }
 
 .box7 {
@@ -46,77 +59,81 @@ p.chuvang {
 .box7 span {
     display:  block;
     color:  #fff;
-    padding-left: 70px;
-    height:  46px;
-    line-height: 46px;
+    padding-left: 96px;
+    height: 72px;
+    line-height: 97px;
     text-align:  left;
+    font-size: 26px;
 }
 
 .box7 img {
-    width: 23px;
-    margin-right: 17px;
+    width: 37px;
+    margin-right: 35px;
+    margin-bottom: -9px;
 }
 
 p.text8 {
     color:  #fff;
-    font-size:  33px;
-    padding: 20px;
+    font-size: 32px;
+    padding: 3px 91px 118px 76px;
 }
 
 span.khoitrang2 {
-    width: 60px;
+    width: 89px;
     height: 20px;
     background: #fff;
-    display: inline-block;
-    margin-top: 251px;
-    margin-left: 26px;
+    display: block;
+    margin-top: 414px;
+    margin-left: 77px;
 }
 
 span.khoitrang1 {}
 
 span.khoitrang1 {
-    width: 60px;
+    width: 89px;
     height: 20px;
     background:  #fff;
     display: inline-block;
-    margin-top: 251px;
-    margin-left:  26px;
+    margin-top: 393px;
+    margin-left: 56px;
 }
 
 p.text7 {
     margin-top: 10px;
-    color:  #fff;
-    font-size: 13px;
-    padding: 0 25px;
+    color: #fff;
+    float: right;
+    font-size: 23px;
+    text-align: justify;
+    padding: 3px 55px;
 }
 
 p.DESIGN {
     color:  #fff;
     text-align:  center;
-    font-size: 25px;
-    margin: 0;
+    font-size: 33px;
+    margin: -37px;
 }
 
 p.HEY {
     color:  #fff;
-    font-size: 94px;
+    font-size: 126px;
     margin: 0;
     padding-top: 100px;
     text-align:  center;
 }
 
 .box7 {
-    width: 320px;
-    height: 294px;
+    width: 461px;
+    height: 509px;
     background: #242a31;
 }
 
 .box6 {
-    width: 270px;
-    margin-left: 50px;
+    width: 364px;
+    margin-left: 97px;
     background: #ffd04f;
     opacity: 0.9;
-    height: 1269px;
+    height: 1403px;
     margin-top:  -24px;
 }
 
@@ -138,7 +155,7 @@ body {
 
 .box4 {
     background: #386678;
-    padding-left: 670px;
+    padding-left: 619px;
 }
 
 .box4 img {
@@ -152,33 +169,57 @@ body {
 
 p.text6 {
     color: black;
+    text-align: justify !important;
+    font-size: 23px;
+    margin-top: -11px;
+    margin-right: 118px !important;
 }
 
 .boxwhile {
     width: 20px;
-    height: 65px;
+    height: 85px;
     background:  #fff;
-    margin-left: 1212px;
+    margin-left: 1196px;
+    position:  relative;
+    z-index:  10;
+    margin-top: -17px;
 }
 
 p.text4 {
-    font-size: 103px;
     line-height:  0px;
+}
+
+p.text4.textdb {
+    margin-top: 103px;
 }
 
 .box3 p {
     margin-right: 10px;
     text-align: right;
-    padding-left: 600px;
-    padding-right: 80px;
+    padding-left: 628px;
 }
 
 p.text5 {
-    color:  #fff;
+    color: #FFF;
+    text-align:  justify;
+    font-size: 23px;
+    margin-top: -44px;
+    margin-right: 118px;
 }
 
 p.text4 {
     color:  #fff;
+    font-weight:  bold;
+    padding-right: 105px;
+    font-size: 105px;
+    margin-top: 144px;
+}
+
+p.text4:nth-child(2) {}
+
+.box3 p {
+    position: relative;
+    z-index: 10;
 }
 
 .box3 {
@@ -186,36 +227,43 @@ p.text4 {
     background-size: cover;
     margin-top: -16px;
     padding-top: 55px;
-    padding-bottom: 45px;
+    padding-bottom: 87px;
     position:  relative;
 }
 
 p.text3 {
-    width: 500px;
+    width: 641px;
     color: #fff;
     float: right;
-    font-size: 15px;
+    font-size: 23px;
+    text-align: justify;
 }
 
 p.text2 {
     font-size: 64px;
     color: #ffce49;
     line-height:  0px;
+    padding-top: 17px;
+    font-weight: 900;
+    letter-spacing: 0px;
 }
 
 .box2 {
     text-align:  right;
-    padding-right:  90px;
+    padding-right: 115px;
     background: #242a31;
     padding-top: 45px;
-    padding-bottom:  49px;
+    padding-bottom: 99px;
     overflow:  auto;
+    position: relative;
 }
 
 p.text1 {
-    font-size: 35px;
+    font-size: 43px;
     line-height:  0px;
     color:  #fff;
+    letter-spacing: 2px;
+    margin-top: 70px;
 }
 
 
@@ -224,17 +272,19 @@ p.text1 {
   float: right;
   display: block;
   color: #ffd04f;
-  font-size:  32px;
+  font-size: 33px;
   padding-top:  13px;
   padding-right: 18px;
+  font-weight:  bold;
+  letter-spacing: 3px;
 }
 .box1 {
   padding-top: 120px;
   padding-bottom: 190px;
 }
 .boxvang {
-  width: 105px;
-  height: 105px;
+  width: 114px;
+  height: 103px;
   background: #ffd04f;
   float: right;
 } 
@@ -244,3 +294,5 @@ p.text1 {
 
 p.text3:after {
 }
+
+p.text4 {}
