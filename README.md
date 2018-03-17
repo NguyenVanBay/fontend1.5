@@ -12,7 +12,7 @@ Thực hiện bởi [https://github.com/NguyenVanBay]
 ## Liên kết
 
 Demo 
-file:///C:/Users/Nguye/OneDrive/Desktop/gitpage/fontend1_6/index.html
+https://nguyenvanbay.github.io/fontend1_6/
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
