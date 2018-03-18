@@ -2,26 +2,27 @@
 
 ## Tiêu đề bài tập
 
- **Frontend 1.5 : Tự tạo layout cơ bản không dùng thư viện** .
+ **Frontend 1.5 :  Bài toán Todo List ** .
 
-Thiết kế giao diện như hình. 
-https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20pc/1671.psd
+"Tìm hiểu tính năng bài toán Todo List, bài toán nên thực hành khi học 1 ngôn ngữ lập trình mới
+Tự làm lại 1 phiên bản 1 bản bằng jquery và 1 bản không bằng jquery"
 
 Thực hiện bởi [https://github.com/NguyenVanBay]
 
 ## Liên kết
 
-Demo 
+Link demo
+
+none-jquery.
+https://nguyenvanbay.github.io/fontend1.5/
+jquery.
 https://nguyenvanbay.github.io/fontend1.5/
 
-## Hướng dẫn cài đặt test/sử dụng nếu có
-
-  - Bài tập có thể thử dụng để mở rộng kiến thức html5 , css3...
 
 ## Kiến thức nắm được
 
-	- Học được cách chia layout sử dụng float, html , css.
-	- tự thiết kế giao diện k dùng thư viện.
+	- Các hàm cơ bản javascript và jquery.
+	- Ôn lại kiến thức html5 , css3.
 
 ## Todo
 
@@ -31,3 +32,4 @@ https://nguyenvanbay.github.io/fontend1.5/
 	- git
 	- sublimetext3
 	- chrome...
+	- phpstorm.
