@@ -1,28 +1,26 @@
 # Bài tập Trainee Colombo 2018
 
-## Tiêu đề bài tập
-
- **Frontend 1.5 :  Bài toán Todo List ** .
-
-"Tìm hiểu tính năng bài toán Todo List, bài toán nên thực hành khi học 1 ngôn ngữ lập trình mới
-Tự làm lại 1 phiên bản 1 bản bằng jquery và 1 bản không bằng jquery"
+## "Không dùng thư viện, thiết kế theo giao diện yêu cầu
+"Không dùng thư viện, thiết kế theo giao diện yêu cầu
+Chú ý tổ chức thư mục :
+- index.html
+- css
+- js
+- images"
 
 Thực hiện bởi [https://github.com/NguyenVanBay]
 
 ## Liên kết
 
+Đề bài :
+https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20pc/1671.psd
+
 Link demo
-
-none-jquery.
 https://nguyenvanbay.github.io/fontend1.5/
-jquery.
-https://nguyenvanbay.github.io/fontend1.5/
-
 
 ## Kiến thức nắm được
 
-	- Các hàm cơ bản javascript và jquery.
-	- Ôn lại kiến thức html5 , css3.
+	- Thẻ cơ bản html5, css3.
 
 ## Todo
 
