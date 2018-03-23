@@ -186,18 +186,18 @@ section.boxaside {
 }
 
 p.HEY {
-    font-size:  120px;
-    padding-top: 30px;
+    font-size: 100px;
+    padding-top: 15px;
     font-weight:  bold;
 }
 
 p.DESIGN {
-    font-size: 35px;
-    margin-top: -35px;
+    font-size: 29px;
+    margin-top: -29px;
 }
 
 span.khoitrang1 {
-    margin-top: 383px;
+    margin-top: 300px;
     background: #fff;
     width: 80px;
     height: 21px;
@@ -206,7 +206,7 @@ span.khoitrang1 {
 
 p.text9 {
     text-align: left;
-    margin-top: 15px;
+    margin-top: 20px;
     font-size: 20px;
     padding-right:  31px;
 }
@@ -216,11 +216,11 @@ span.khoitrang2 {
     width: 80px;
     height: 21px;
     background:  #fff;
-    margin-top: 186px;
+    margin-top: 248px;
 }
 
 p.text10 {
-    font-size: 35px;
+    font-size: 30px;
     text-align:  left;
     margin-top: 33px;
     padding-right: 44px;
