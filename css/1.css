@@ -32,7 +32,7 @@ header {
 }
 
 .boxgray {
-    width: 31%;
+    width: 41%;
     height: 23px;
     background: #b8b5b4;
     float:  right;
@@ -64,16 +64,18 @@ p.text1, p.text3 {
     font-size: 97px;
     font-weight:  400;
     margin-bottom: 15px;
+    margin-top: -45px;
 }
 
 p.text2 {
     color: #fbcc4b;
     font-size: 171px;
     font-weight:  bold;
+    margin-top: -50px;
 }
 
 p.text1 {
-    margin-top: 26px;
+    margin-top: 25px;
 }
 
 p.text4 {
