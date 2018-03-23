@@ -134,6 +134,7 @@ footer {
     background: #386678;
     overflow:  auto;
     padding: 75px 105px;
+    padding-right: 380px;
 }
 
 footer > img {
@@ -268,4 +269,8 @@ span {}
 .contact p {
     color:  #fff;
     font-size: 23px;
+}
+
+p.text8 {
+    color:  #000;
 }
